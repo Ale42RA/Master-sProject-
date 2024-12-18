@@ -59,11 +59,5 @@ The project outlined functional and non-functional requirements to ensure robust
 
 ## Acknowledgments
 
-The author extends gratitude to the supervisor, Dr. Hyung Jin Chang, for guidance and support throughout the project.
+Gratitude to  Dr. Hyung Jin Chang, for guidance and support throughout the project.
 
----
-
-## Future Work
-
-- Reimplementation and expansion of the system using updated machine learning techniques.
-- Exploration of additional modalities, such as virtual reality, for enhanced user interaction.
