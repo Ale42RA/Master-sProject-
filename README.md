@@ -1,1 +1,1 @@
-# Master-sProject-
+# Masters Project-
